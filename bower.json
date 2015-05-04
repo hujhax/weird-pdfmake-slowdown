@@ -1,0 +1,20 @@
+{
+  "name": "breakPdf",
+  "version": "0.0.0",
+  "homepage": "http://www.example.com",
+  "authors": [
+    "Peter Rogers <progers@surgeforward.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~3.8.0",
+    "pdfmake": "~0.1.18"
+  }
+}

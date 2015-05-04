@@ -1,0 +1,1 @@
+To run this, run bower install to add the pdfMake component, run index.html, and press the button.  You should get a document that breaks pagination -- the text runs right past the bottom of the page -- on page 3.
